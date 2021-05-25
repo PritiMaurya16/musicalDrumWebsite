@@ -1,2 +1,2 @@
 # musicalDrumWebsite
-This website is design using Html ,CSS and  Javascript.
+This website is designed using Html ,CSS and  Javascript.
